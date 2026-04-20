@@ -61,10 +61,6 @@ Arama algoritmaları, bir veri kümesi içinde belirli bir değeri bulmak için 
 * **Karmaşıklık:** $O(\log n)$.
 * **Örnek:** 1 milyon kayıtlık bir listede Doğrusal Arama en kötü durumda 1.000.000 işlem yaparken, İkili Arama sadece yaklaşık 20 işlemde sonucu bulur.
 
-**2. Arama Algoritmaları:**
-* **Doğrusal Arama (Linear Search):** Hedef veriyi bulana kadar listeyi baştan sona tarar.
-* **İkili Arama (Binary Search):** Sıralı listeyi sürekli ikiye bölerek hedefe çok hızlı ulaşır.
-
 ## Performans Raporu (Zaman Karmaşıklığı)
 
 Algoritmaların teorik çalışma hızları aşağıdaki gibidir:
